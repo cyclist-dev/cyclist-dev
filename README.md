@@ -16,7 +16,7 @@
 
 - 🎯 My goal is to become a full-stack back-end developer and contribute to requested projects.
 
-- 📫 You can contact me at moc.profissional@gmail.com or on LinkedIn (https://www.linkedin.com/in/marce-costa/)
+- 📫 You can contact me at moc.profissional@gmail.com or on [LinkedIn](https://www.linkedin.com/in/marce-costa/)
 
 ## 🛠️ Technologies and Tools
 

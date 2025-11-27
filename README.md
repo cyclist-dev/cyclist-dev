@@ -29,6 +29,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ---
 
+
+## 📈 GitHub Stats
+
+[![Cyclist-Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyclist-dev&show_icons=true&theme=radical&hide_border=true)](https://github.com/cyclist-dev)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=cyclist-dev&layout=compact&theme=radical&hide_border=true)](https://github.com/cyclist-dev)
+
 <div align="center">
 
 ✨ *"Success is the sum of small efforts repeated day after day."* ✨

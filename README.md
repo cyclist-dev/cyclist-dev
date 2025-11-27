@@ -1,6 +1,6 @@
 # Hi, I'm Marcela! 👋
 
-**'FullStack Developer'**
+**FullStack Developer**
 
 ## 🧑‍💻 About Me
 

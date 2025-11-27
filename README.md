@@ -1,4 +1,4 @@
-# Hi, I'm Marcela! 👋
+# Hi, I'm Marcela Costa! 👋
 
 **FullStack Developer**
 

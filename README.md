@@ -36,7 +36,7 @@
 
 <div align="center">
 
-[![Cyclist-Dev's GitHub Stats](https://www.github-readme-stats.vercel.app/api?username=cyclist-dev&show_icons=true&theme=radical&hide_border=true)](https://github.com/cyclist-dev)
+
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=cyclist-dev&layout=compact&theme=radical&hide_border=true)](https://github.com/cyclist-dev)
 
 

@@ -34,13 +34,7 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-
-
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=cyclist-dev&layout=compact&theme=radical&hide_border=true)](https://github.com/cyclist-dev)
-
-
-</div>
 
 
 

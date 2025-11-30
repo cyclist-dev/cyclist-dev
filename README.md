@@ -1,6 +1,6 @@
 # Hi, I'm Marcela Costa! 👋
 
-**FullStack Developer**
+**Back-End Developer**
 
 ## 🧑‍💻 About Me
 

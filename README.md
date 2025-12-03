@@ -34,7 +34,25 @@
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cyclist-dev)](https://git.io/streak-stats)
+
+
+
+<div align="center">
+  <h3>Meu Painel de Estatísticas</h3>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cyclist-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=cyclist-dev&layout=compact&theme=dracula"/>
+  </a>
+
+  <br/>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img height="180em" src="https://streak-stats.demolab.com?user=cyclist-dev&theme=dracula&date_format=j%20M%5B%20Y%5D"/>
+  </a>
+</div>
+
 
 
 

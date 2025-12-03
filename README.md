@@ -34,7 +34,7 @@
 
 ## 📈 GitHub Stats
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=cyclist-dev&layout=compact&theme=radical&hide_border=true)](https://github.com/cyclist-dev)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 
 

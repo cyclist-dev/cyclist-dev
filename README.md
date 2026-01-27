@@ -12,7 +12,7 @@
 
 - 💻 Also specializing in **BackEnd Development** at *SENAC* (Graduation: 2026).
 
-- 🌱 Currently, I am deepening my knowledge in ****PHP, MySQL, APIs, JavaScript, HTML, and CSS****.
+- 🌱 Currently, I am deepening my knowledge in ****PHP, MySQL, APIs, JavaScript, C, Python, HTML, and CSS****.
 
 - 🎯 My goal is to become a full-stack back-end developer and contribute to requested projects.
 

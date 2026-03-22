@@ -6,15 +6,15 @@
 
 - 🏖️ Originally from the coast of São Paulo.
 
-- 🎓 IT Technical Support Assistant from *UFBRA* (Graduation: 2025).
+- 🎓 IT Technical Support Assistant (Graduation: 2025).
 
-- 📚 Currently studying **Systems Analysis and Development** at *UFBRA* (Graduation: 2027).
+- 📚 Currently studying **Development**.
 
-- 💻 Also specializing in **BackEnd Development** at *SENAC* (Graduation: 2026).
+- 💻 Also specializing in **BackEnd Development** at *SENAC* (Graduation: OCT 2026).
 
 - 🌱 Currently, I am deepening my knowledge in ****PHP, MySQL, APIs, JavaScript, C, Python, HTML, and CSS****.
 
-- 🎯 My goal is to become a full-stack back-end developer and contribute to requested projects.
+- 🎯 My goal is to become a full-stack developer and contribute to requested projects.
 
 - 📫 You can contact me at moc.profissional@gmail.com or on [LinkedIn](https://www.linkedin.com/in/marce-costa/)
 
